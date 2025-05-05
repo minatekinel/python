@@ -13,5 +13,6 @@
         <li>Çevrimiçi/cevrimdışı harcanan zaman için sınırlar belirleyebiliriz.</li>
         <li>Rahatlamak ve dinlenmek için teknolojiden uzak bazı aktivitelerde bulunabilirsiniz.</li>
     <ul>
+        <iframe><https://www.meteoblue.com/tr/hava/widget/setupday/ip_romanya_675514></iframe>
 </body>
 </html>
